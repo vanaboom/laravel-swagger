@@ -28,7 +28,7 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "VanaBoom\\SwaggerDocs\\": "src/"
+            "VanaBoom\\LaravelSwagger\\": "src/"
         }
     },
     "suggest": {
@@ -37,7 +37,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "VanaBoom\\SwaggerDocs\\SwaggerServiceProvider"
+                "VanaBoom\\LaravelSwagger\\SwaggerServiceProvider"
             ]
         }
     }
