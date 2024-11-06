@@ -1,5 +1,5 @@
 {
-    "name": "VanaBoom/laravel-swagger",
+    "name": "vanaboom/laravel-swagger",
     "description": "Swagger docs generator for Laravel api",
     "type": "library",
     "keywords": [
